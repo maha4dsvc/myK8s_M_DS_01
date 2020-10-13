@@ -18,3 +18,4 @@ spec:
         image: maha4iac/mymahaapp:1
         ports:
         - containerPort: 8080
+        
